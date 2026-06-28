@@ -118,8 +118,8 @@ yarn start
    - Use the camera feature to capture and report flooded locations
    - Earn reward points for accurate reports
 
-4. **View Alternative Routes**
-   - After receiving an alert, accept the reroute suggestion to navigate around flooded areas
+4. **Searching Alternative Routes**
+   - After searching a destination point, the system will show the less flooded streets route to travel
 
 5. **Redeem Points**
    - Exchange accumulated reward points for vouchers in the rewards section
